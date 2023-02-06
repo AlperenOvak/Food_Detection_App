@@ -1,4 +1,4 @@
-# tf_test
+# Food Detection App
 
 A new Flutter project.
 
